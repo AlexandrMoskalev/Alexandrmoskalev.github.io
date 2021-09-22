@@ -1,0 +1,171 @@
+body { 
+	font-family: Arial, sans-serif;
+
+}
+nav {
+	width: 100%;
+	height: 60px;
+	background: #344051;  
+}
+.logo {
+	color: #fff;
+	font-size: 22px;
+	line-height: 60px; 
+	padding-left: 200px; 
+	float: left;
+} 
+
+.menu {
+	float: left;
+	padding-left: 432px; 
+
+}
+
+.menu li{
+	float: left;
+	line-height: 60px; 
+	color: #fff;
+	margin-right: 35px; 
+	font-size: 14px;
+	text-transform: uppercase;
+}
+
+.main{ 
+	width: 100%; 
+	height: calc(100% - 60px); 
+	background: url(https://get.wallhere.com/photo/sunlight-minimalism-reflection-sky-blue-horizon-circle-atmosphere-lens-flare-light-rainbow-wave-shape-line-computer-wallpaper-atmosphere-of-earth-meteorological-phenomenon-171803.jpg) center/cover no-repeat;
+ }
+.title__container{
+	float: left;
+	color: #2c384a;
+	margin: 275px 0px 0px 300px; 
+	text-align: center;
+}
+.title__container h1 {
+	font-size: 50px;
+	font-weight: bold;
+
+}
+.title__container h4 {
+	margin-top: 40px;
+	font-size: 22px;
+	color: #fff;
+
+}
+
+.title__container input {
+	height: 40px; 
+	text-align: center;
+	border: 2px solid #fff; 
+	background: none; 
+	border-radius: 5px; 
+	color: #fff; 
+	font-size: 13px; 
+	padding: 0px 16px; 
+	margin: 58px 14px 0px 14px; 
+
+} 
+.title__container2 h2 {
+	color: #263244;
+	font-size: 22px;
+	line-height: 120px; 
+	padding-left: 700px; 
+	float: left;
+	text-transform: uppercase;
+	font-weight: bold
+}
+
+.circle-image {
+	display: inline-block;
+	overflow: hidden;
+	padding-bottom: 150px;
+	height: 0;
+	position: relative;
+	width: 150px;
+	margin: 40px 300px 15px 690px;
+
+	
+
+}
+
+.circle-image img {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	border-radius: 50%;
+	object-fit: cover;
+}
+
+
+.title__container2 h4 {
+ 
+    color: #3f495a;
+	margin: 0px 0px 0px 450px;
+     width: 50%;
+
+	text-align: left;
+
+
+}
+
+.title__container2 p {
+	color: #3f495a;
+	margin: 40px 0px 0px 450px;
+     width: 50%;
+
+	text-align: left;
+
+
+
+}
+
+.title__container2 input {
+	height: 40px; 
+	text-align: center;
+	border: 2px solid #6f707e; 
+	background: none; 
+	border-radius: 5px; 
+	color: #6f707e; 
+	font-size: 13px; 
+	font-weight: bold;
+	padding: 0px 16px; 
+	margin: 40px 300px 110px 690px;
+
+}
+
+.htp {
+	color: #263244;
+	font-size: 22px;
+	line-height: 120px; 
+	
+	text-transform: uppercase;
+	font-weight: bold ;
+}
+.container { 
+	width: 100%; 
+	height: 100%; 
+	background: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1613546232_19-p-fon-dlya-prezentatsii-belogo-tsveta-20.jpg) center/cover no-repeat;
+ }
+
+
+.skills h2 {
+	color: #263244;
+	font-size: 22px;
+	line-height: 100px; 
+	padding-left: 700px; 
+	font-weight: bold ;
+	
+}
+
+.skills-info-block{
+	float: left ;
+	font-size: 15px;
+	border: 1px;
+	width: 250px;
+	text-align: center;
+	margin-left: 100px;
+	
+}
+	
+
+
